@@ -1,6 +1,6 @@
 function init ()
 {
-  $(document).ready()
+  $(document).ready(function)
   {
     $('#close-btn').click(function()
     {
